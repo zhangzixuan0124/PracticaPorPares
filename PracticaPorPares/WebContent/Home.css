@@ -1,0 +1,93 @@
+@charset "UTF-8";
+body{
+	
+	background-color: #de942f;
+}
+h1{
+	font-family: 'Sriracha', cursive;
+	color:white;
+	padding:30px;
+	
+	text-align:center;
+	magin-bottom:40px;
+	background-color: #de942f;
+	}
+.div1{
+	magin-bottom:10px;
+	
+	background-color: #729fcf;
+}
+.titulo1{
+	display:inline;
+	margin-left:30px;
+	margin-right:3px;
+	text-align:left;
+	border: 1px solid black;
+	position:relative;
+	top:-10px;
+}
+.titulo2{
+	display:inline;
+	margin:3px;
+	text-align:left;
+	border: 1px solid black;
+	position:relative;
+	top:-10px;
+	
+}
+.titulo3{
+	display:inline;
+	margin:3px;
+	text-align:left;
+	border: 1px solid black;
+	position:relative;
+	top:-10px;
+	
+}
+.titulo4{
+	display:inline;
+	margin:3px;
+	text-align:left;
+	border: 1px solid black;
+	position:relative;
+	top:-10px;
+	
+}
+.imgsteve{
+	float:left
+	
+}
+.stevetext{
+	color:blue;
+	
+}
+.div2{
+	background-color: white;
+	
+}
+.div3{
+	
+	background-color: #729fcf;
+}
+.imgmacintosh{
+	float:right;
+	position:relative;
+	top:-30px;
+}
+.footer{
+	text-align:center;
+	background-color: orange;
+	height:150px;
+	
+}
+.coloredtext{
+	background-color: #edd400;
+	
+}
+.productolista{
+	width:90%;
+	background-color: #d3d7cf;
+	margin-left:5%;
+	
+	
+}
